@@ -1,0 +1,27 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "chromeclone",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1732558336305,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "NWFkNzk1MWFmOWQzMWUwNDdmZWNmMzBkODMwYjcyM2EzNjVkOTU0OTY2YmI2NWNlZjBhZmQyNzVhMGQ0NTNlMzQ5NjNjMmEwOTM2YzU2Mjc5YTk1NjcwMTg3ZDY2OTdmZjQ0NjRkM2RmNjJlMDBjMjg5ODMyOGVkZWRkNTBlZGE=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": null,
+    "websocket": null
+  }
+}
